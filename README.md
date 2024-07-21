@@ -44,15 +44,6 @@ It is a Streamlit-based POC web application that allows users to input news arti
    streamlit run main.py
 
 
-### Summary of the README
-
-- **Project Overview**: Provides a brief description of the tool and its features.
-- **Prerequisites**: Lists the necessary dependencies and requirements.
-- **Installation**: Step-by-step instructions on how to set up the project.
-- **Usage**: Guides the user on how to run and use the application.
-- **Code Overview**: Summarizes the main components and functionality of the code.
-- **License**: Specifies the project's license.
-- **Acknowledgments**: Credits to the tools and libraries used in the project.
 
 
 
