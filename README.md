@@ -42,9 +42,3 @@ It is a Streamlit-based POC web application that allows users to input news arti
 5. Run the Streamlit app:
    ```bash
    streamlit run main.py
-
-
-
-
-
-
