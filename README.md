@@ -25,3 +25,35 @@ It is a Streamlit-based POC web application that allows users to input news arti
    ```bash
    git clone https://github.com/ManavGora/Research-Tool-BOT-
    cd Research-Tool-BOT-
+
+2. Create a virtual environment and activate it:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+
+4. Create a '.env' file in the root directory and add your OpenAI API key:
+   ```bash
+   OPENAI_API_KEY=your_openai_api_key
+
+5. Run the Streamlit app:
+   ```bash
+   streamlit run main.py
+
+
+### Summary of the README
+
+- **Project Overview**: Provides a brief description of the tool and its features.
+- **Prerequisites**: Lists the necessary dependencies and requirements.
+- **Installation**: Step-by-step instructions on how to set up the project.
+- **Usage**: Guides the user on how to run and use the application.
+- **Code Overview**: Summarizes the main components and functionality of the code.
+- **License**: Specifies the project's license.
+- **Acknowledgments**: Credits to the tools and libraries used in the project.
+
+
+
+
