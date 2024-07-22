@@ -2,6 +2,11 @@
 
 It is a Streamlit-based POC web application that allows users to input news article URLs and PDF documents for text analysis. It processes the provided content, creates embeddings, and enables users to query the data using an OpenAI language model. The results include answers to the queries and relevant sources.
 
+<br>
+<img src="https://github.com/ManavGora/Research-Tool-BOT-/blob/main/Architecture.png"/>
+<br>
+
+
 ## Features
 
 - Accepts up to 3 URLs and 3 PDF files for content analysis.
